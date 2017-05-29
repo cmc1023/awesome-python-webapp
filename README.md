@@ -1,3 +1,3 @@
 My first web app with python code.
 
-I hope you like it!
+I hope you like it! Good luck!
